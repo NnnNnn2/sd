@@ -18,7 +18,7 @@ $ ./install.sh
 
 if it doesn't work you can compile the C file using gcc
 
-$ gcc -o <path to sd.c> sd
+$ gcc sd.c -o sd
 
 and then manually install said file
 
