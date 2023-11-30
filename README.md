@@ -20,6 +20,7 @@ if it doesn't work you can compile the C file using gcc
 
 $ gcc sd.c -o sd
 
-and then manually install said file
+and then try to run install.sh again, if that doesn't work
+you can manually install said file
 
 $ sudo install ./sd /usr/bin
